@@ -10,5 +10,8 @@
     "author_email": "seeutoday00@gmail.com",
     "support_url": "",
     "repository": "https://github.com/seeutoday00-stack/tw-500saudi",
-    "components": []
+    "components": [],
+    "features": [
+        "landing-page-templates"
+    ]
 }
